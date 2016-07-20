@@ -21,7 +21,7 @@
   "dependencies": {
     "async": "1.x.x",
     "joi": "8.x.x",
-    "mongodb": "2.x.x"
+    "mongodb": "2.1.6"
   },
   "devDependencies": {
     "bluebird": "3.x.x",
